@@ -3,13 +3,13 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "MITHUN",
   headerTaglineOne: "Hello 👋",
   headerTaglineTwo:
-    "I'm Chetan Verma - curious designer and devloper based in New Delhi, India. ",
+    "I'm MITHUN FROM BANNARI AMMAN INSTITUTE OF TECHNOLOGY ",
 
   socials: [
-    { title: "Github", link: "https://github.com/chetanverma16" },
+    { title: "Github", link: "https://github.com/MITHUN-GK" },
 
     { title: "Email", link: "mailto:mithun.al21@bitsathy.ac.in" },
   ],
@@ -106,4 +106,4 @@ export default {
   //   End About Section ---------------------
 };
 
-// Thanks for using this template, I would love to hear from you contact me at hello@chetanverma.com
+
